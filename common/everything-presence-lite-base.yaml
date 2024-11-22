@@ -28,7 +28,8 @@ ota:
 http_request:
 
 wifi:
-
+  fast_connect: true
+  
 improv_serial:
 
 i2c:
